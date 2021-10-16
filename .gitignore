@@ -1,0 +1,41 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# production
+build/
+dist/
+tmp/
+lib/
+logs/
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+.mvn
+/sadkLogs/
+/.vs/
+!/xyidc-xxljob/src/main/resources/static/adminlte/dist/
+**/.DS_Store
+/${global.basic.server-basedir}/
