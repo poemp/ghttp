@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"ghttp/ghttp"
+	"github.com/poemp/ghttp"
 )
 
 func goGet()  {
